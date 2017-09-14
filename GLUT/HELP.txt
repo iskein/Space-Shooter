@@ -1,0 +1,30 @@
+This is an arcade game in which the player can control the movements of red and green blocks, the up and down movement of laser and can also rotate the loser. The main objective of the game is to shoot the black blocks and avoid shooting red and green blocks. The red and green blocks needs to be collected in respective colour baskets. The game ends if a black box is collected in some basket and the user shoots more than 20 red or green baskets. Each red or green block collected gives one points and each black box shot gives one point.
+
+Controls
+
+Mouse: 
+1) scroll up/down to zoom in and zoom out
+2) Left click to shoot laser
+3) Draging mouse on anywhere on screen except over objects positions the laser
+4) User can also click and drag red and green baskets and the position of laser on y axis
+
+Keyboard:
+1) SPACE shoots laser
+2) 'a' or 'A' moves red basket left
+3) 's' or 'S' moves red basket right
+4) 'd' or 'D' moves green basket left
+5) 'f' or 'F' moves green basket right
+6) UP moves laser up on y axis
+7) DOWN moves laser down on y axis
+8) Use LEFT and RIGHT to adjust angle of laser
+9) 'r' or 'R' to pan the scene to right
+10) 'l' or 'L' to pan the scene to left
+11) 'o' or 'O' to restore the pan of scene
+12) 'n' or 'N' to increase the density of number of blocks on screen (max limit - 20)
+12) 'm' or 'M' to decrease the density of number of blocks on screen (min limit - 0)
+
+The objective of the game is to get as high score as possible
+
+On using SPACE bar to fire the laser sound is also generated
+
+User can see the running score on terminal 
